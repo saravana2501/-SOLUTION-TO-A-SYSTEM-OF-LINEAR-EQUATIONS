@@ -1,4 +1,4 @@
-<img width="564" height="433" alt="Screenshot 2025-09-02 142934" src="https://github.com/user-attachments/assets/815a65bb-1f8e-4b41-85cf-d46254ea20de" /># -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+# -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
