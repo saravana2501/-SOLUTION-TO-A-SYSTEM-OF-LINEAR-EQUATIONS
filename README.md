@@ -1,4 +1,4 @@
-# -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+<img width="564" height="433" alt="Screenshot 2025-09-02 142934" src="https://github.com/user-attachments/assets/815a65bb-1f8e-4b41-85cf-d46254ea20de" /># -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
@@ -26,8 +26,10 @@ C=np.linalg.solve(A,B)
 print(C)
 ```
 
+
 ## Output:
-<img width="386" height="138" alt="Screenshot 2025-08-14 093804" src="https://github.com/user-attachments/assets/56a78875-846a-4924-8a44-a15fe244fb99" />
+<img width="564" height="433" alt="Screenshot 2025-09-02 142934" src="https://github.com/user-attachments/assets/7751b571-74c0-4707-bdab-ad2e770b4012" />
+
 
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
